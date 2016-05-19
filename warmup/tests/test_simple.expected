@@ -1,0 +1,27 @@
+Loading 'simple_dict.json'...
+Loaded 3 words.
+Enter a word to lookup:
+------------------------------
+CAT:
+A four legged mammal.
+Not to be confused with "dog".
+------------------------------
+Enter a word to lookup:
+------------------------------
+CAT:
+A four legged mammal.
+Not to be confused with "dog".
+------------------------------
+Enter a word to lookup:
+'whale' is not in this dictionary!
+Enter a word to lookup:
+---------------------
+DOG:
+A four legged mammal.
+---------------------
+Enter a word to lookup:
+------------------------------
+LIZARD:
+A four legged scalled reptile.
+------------------------------
+Enter a word to lookup:
