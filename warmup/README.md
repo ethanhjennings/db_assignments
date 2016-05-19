@@ -10,7 +10,7 @@ The JSON for the dictionaries are structed very simply, with words as property n
 {
     "dog": "A four legged mammal.",
     "cat": "A four legged mammal.\nNot to be confused with \"dog\".",
-    "lizard": "A four legged scalled reptile."
+    "lizard": "A four legged scaly reptile."
 }
 ```
 
