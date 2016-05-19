@@ -1,7 +1,7 @@
 # Warmup Project: JSON
 For this project you'll be creating a program that allows users to lookup the definition of words taken from a real dictionary. Once it's working, you'll be able to run it with the included JSON file `websters_dict.json` which has all the definitions from the [1996 Webster's Dictionary](http://www.gutenberg.org/ebooks/673).
 
-Please read the lesson in [lesson.md]() first.
+Please read the lesson in [lesson.md](https://github.com/ethanhjennings/db_assignments/blob/master/warmup/lesson.md) first.
 
 ## Dictionary structure
 The JSON for the dictionaries are structed very simply, with words as property names and definitions as values. This is all that's in `simple_dict.json` for example:
